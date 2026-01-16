@@ -1,0 +1,6 @@
+streamlit==1.37.1
+requests==2.32.3
+pandas==2.2.2
+matplotlib==3.9.2
+python-dotenv==1.0.1
+pydantic-settings==2.6.1

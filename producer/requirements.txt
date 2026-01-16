@@ -1,0 +1,4 @@
+kafka-python-ng
+faker
+pydantic-settings==2.6.1
+
